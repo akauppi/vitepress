@@ -55,6 +55,10 @@ function getConfigSidebar() {
     {
       text: 'App Config',
       children: [{ text: 'Basics', link: '/config/basics' }]
+    },
+    {
+      text: 'Theme Config',
+      children: [{ text: 'Homepage', link: '/config/homepage' }]
     }
   ]
 }
